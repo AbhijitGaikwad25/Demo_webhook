@@ -96,4 +96,6 @@ def health_check():
 # -----------------------------
 @app.get("/health")
 def health_check():
-    return {"status": "Calculator API is running"}
+
+
+
