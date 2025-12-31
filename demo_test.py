@@ -81,14 +81,9 @@ def health_check():
     return {"status": "Calculator API is running"}
 
 
-# -----------------------------
-# Health Check
-# -----------------------------
 
 
-# -----------------------------
-# Health Check
-# -----------------------------
+
 
 
 
