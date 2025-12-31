@@ -81,8 +81,13 @@ def health_check():
     return {"status": "Calculator API is running"}
 
 
+# -----------------------------
+# Health Check
+# -----------------------------
 
+@app.get("/health")
 
+@app.get("/health")
 
 
 
