@@ -85,9 +85,6 @@ def health_check():
 # Health Check
 # -----------------------------
 
-@app.get("/health")
-
-@app.get("/health")
 
 
 
