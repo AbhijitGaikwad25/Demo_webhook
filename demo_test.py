@@ -78,6 +78,7 @@ def batch_calculation(request: BatchCalculationRequest):
 # -----------------------------
 @app.get("/health")
 def health_check():
+    print("hello")
     return {"status": "Calculator API is running"}
 
 
